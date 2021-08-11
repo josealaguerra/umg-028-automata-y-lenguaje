@@ -17,6 +17,11 @@ def debug(mensaje):
         print (mensaje)
 
 
+
+
+
+
+
 def validState():
     global entrada
     global estado
@@ -118,9 +123,12 @@ def validEmail(datoIngresado):
 
 
 palabras = ['alicia@gmail.com', 
+            'sarai@outlook.com', 
             'cesar@gmail.com', 
             'edinson@gmail.com',
             'jose@gmail.com',
+            '25se@gmail.com',
+            'jose@25ail.com',
             '@gmail.com',
             'auto@',
             'au.com',
